@@ -1,0 +1,35 @@
+body{
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    color: #e4ded8;
+    background-color: #f3e6d8;
+}
+
+b{
+    color: #5f574e;
+}
+
+.menu-card{
+    width: 600px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+}
+
+.omelette-img{
+    height: auto;
+    width: 500px;
+}
+
+.menu-preparation{
+    background-color: #fff5fa;
+}
+
+.menu-preparation h3{
+    color: #7b284f;
+}
+
+.menu-ingredients h2{
+    color: #854632;
+}
